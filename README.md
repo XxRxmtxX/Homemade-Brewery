@@ -1,7 +1,8 @@
 # Homemade-Brewery
 
 This mod was created by Lich, This is a food mod for "The Long Dark".
-![Pic0001](https://github.com/user-attachments/assets/5ca41003-3fc7-4973-8106-ed8a685d3e97)
+
+![Pic0003](https://github.com/user-attachments/assets/c33a983e-e253-4989-b196-385e0523615f)
 
 a simple mod that allows the creation of alcoholic drinks through fermentation of many ingame/modded food items.
 - *more spawning points for other regions and more drinks will be added هn the future*
@@ -10,6 +11,12 @@ a simple mod that allows the creation of alcoholic drinks through fermentation o
 
 ## Drinks Added
 1. Potato --> Homemade Vodka
+2. BirchbarkPrepared --> BirchBark Beer
+3. ReishiPrepared --> Reishi Whisky
+4. RosehipsPrepared --> Rosehip Wine
+5. AcornGrounds --> Acorn Brandy
+6. CattailStalk --> CatTail Rum
+7. BurdockPrepared --> Burdock Moonshine
 
 ## Dependencies
 ModComponent , CraftingRevisions , AlcoholMod
