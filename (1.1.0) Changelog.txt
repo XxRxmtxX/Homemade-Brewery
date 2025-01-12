@@ -1,0 +1,17 @@
+## Bug fixes
+- fixed the bug with "vodka barrel" blueprint
+## New
+
+### New Spawning Regions
+- item "Yeast" now spawns in Pleasant Valley
+### New Blueprints and Drinks
+1. Birchbark Prepared --> BirchBark Beer
+2. Reishi Prepared --> Reishi Whisky
+3. Rosehips Prepared --> Rosehip Wine
+4. Acorn Grounds --> Acorn Brandy
+5. Cattail Stalk --> CatTail Rum
+6. Burdock Prepared --> Burdock Moonshine
+## Balancing Items
+
+- all drinks have rebalanced calories and effects
+- all spawn chances for item "Yeast" has been increased
