@@ -8,6 +8,7 @@ a simple mod that allows the creation of alcoholic drinks through fermentation o
 - *more spawning points for other regions and more drinks will be added هn the future*
 ## Items Spawning Regions
 1. Mystery Lake
+2. Pleasant Valley
 
 ## Drinks Added
 1. Potato --> Homemade Vodka
