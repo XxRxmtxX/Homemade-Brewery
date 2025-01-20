@@ -2,13 +2,14 @@
 
 This mod was created by Lich, This is a food mod for "The Long Dark".
 
-![Pic0003](https://github.com/user-attachments/assets/c33a983e-e253-4989-b196-385e0523615f)
+![Pic0004](https://github.com/user-attachments/assets/f0220fb9-0960-4ce1-b342-6bcfb826c43f)
 
 a simple mod that allows the creation of alcoholic drinks through fermentation of many ingame/modded food items.
 - *more spawning points for other regions and more drinks will be added هn the future*
 ## Items Spawning Regions
 1. Mystery Lake
 2. Pleasant Valley
+3. Mountain Town
 
 ## Drinks Added
 1. Potato --> Homemade Vodka
