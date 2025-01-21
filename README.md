@@ -10,6 +10,7 @@ a simple mod that allows the creation of alcoholic drinks through fermentation o
 1. Mystery Lake
 2. Pleasant Valley
 3. Mountain Town
+4. Broken Railroad
 
 ## Drinks Added
 1. Potato --> Homemade Vodka
@@ -24,7 +25,7 @@ a simple mod that allows the creation of alcoholic drinks through fermentation o
 ModComponent , CraftingRevisions , AlcoholMod
 
 ## Localization
-English 
+English , Russian 
 ## Known issues
 No problems found so far.
 ## Installation
