@@ -27,7 +27,7 @@ ModComponent , CraftingRevisions , AlcoholMod
 ## Localization
 English , Russian 
 ## Known issues
-- item "yeast" has invisible model when dropped, please store in containers only and wait for a fix.
+- none
 ## Installation
 1. Install the latest version of ModComponent and its dependencies.
 2. move "HomeMade Brewery.modcomponent" to your mods folder located in "C:\Program Files (x86)\Steam\steamapps\common\TheLongDark\Mods" or wherever you have installed 'the long dark".
