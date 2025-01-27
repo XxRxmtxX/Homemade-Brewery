@@ -27,7 +27,7 @@ ModComponent , CraftingRevisions , AlcoholMod
 ## Localization
 English , Russian 
 ## Known issues
-- none
+- item "GEAR_Yeast" have broken/invisible spawn ---> suggested temporary fix: use the "Developer Console" mod and add the item directly to the inventory with the command "add GEAR Yeast"
 ## Installation
 1. Install the latest version of ModComponent and its dependencies.
 2. move "HomeMade Brewery.modcomponent" to your mods folder located in "C:\Program Files (x86)\Steam\steamapps\common\TheLongDark\Mods" or wherever you have installed 'the long dark".
